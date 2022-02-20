@@ -1,4 +1,4 @@
-# cra-template-fresh1
+# cra-template-fresh
 
 Use below command to create absolute fresh react app with shit CRA build tool. 
 
