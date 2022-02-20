@@ -3,13 +3,11 @@
 Use below command to create absolute fresh react app with shit CRA build tool. 
 
 ```bash
-npx create-react-app myFreshApp --template fresh
-```
+npx create-react-app@latest my-fresh-app --template fresh
 
-or
+# or
 
-```bash
-npx create-react-app --template=fresh myFreshApp
+npx create-react-app@latest --template=fresh my-fresh-app
 ```
 
 LOL's
